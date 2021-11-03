@@ -1,3 +1,7 @@
+# New Owl App
+
+This is a React Class Based App to render news based on different categories with infinite scrolling
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
